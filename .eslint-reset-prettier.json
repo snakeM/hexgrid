@@ -1,0 +1,7 @@
+{
+    "rules": {
+      "arrow-body-style": "error",
+      "prefer-arrow-callback": "error",
+      "quotes": ["error", "single", { "avoidEscape": true, "allowTemplateLiterals": false }]
+    }
+}
